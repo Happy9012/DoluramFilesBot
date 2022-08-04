@@ -7,8 +7,8 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/DoluramFilesBot",
-    "success_url": "https://t.me/TechnoKrrish",
+    "repository": "https://github.com/Happy9012/DoluramFilesBot",
+    "success_url": "https://t.me/Himanshurathore0",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
