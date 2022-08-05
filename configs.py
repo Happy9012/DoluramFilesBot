@@ -21,7 +21,7 @@ class Config(object):
 **I Am Permanent File Store Bot 🤖
 Send me any file and I will save it in my Database.\n\nI'm Also works for channel, Add me to your channel as Admin with Edit Permission and I will Save all your Uploaded File in Channel and add Sharable Button Link.🔗**
 
-🤖 **My Name: [Panda🐼](https://t.me/{BOT_USERNAME})**
+🤖 **My Name: [Bunny🐇](https://t.me/{BOT_USERNAME})**
 
 🧑‍🍼 **My Father: @Himanshurathore0**
 """
@@ -35,7 +35,7 @@ Also remember that developer will Delete Adult Contents from Database. So better
 💰 **Donate Now** - 9521134999@ybl (UPI)
 """
 	HOME_TEXT = """
-**Hey, [{}](tg://user?id={}) 😀\n\nThis is Doluram The Permanent File Store Bot.🤖
+**Hey, [{}](tg://user?id={}) 😀\n\nThis is Bunny The Permanent File Store Bot.🤖
 
 Send me any file And I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button.
 
