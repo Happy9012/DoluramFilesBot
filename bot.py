@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @Himanshurathore
 
 import os
 import asyncio
@@ -315,7 +315,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("My Father",
-                                             url="https://t.me/RoyalKrrishna")
+                                             url="https://t.me/Himanshurathore0")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -334,7 +334,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Bot Developer",
-                                             url="https://t.me/RoyalKrrishna")
+                                             url="https://t.me/Himanshurathore0")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
