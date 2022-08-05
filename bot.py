@@ -369,7 +369,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [Father](https://t.me/RoyalKrrishna).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [Father](https://t.me/Himanshurathore0).",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -394,7 +394,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Father](https://t.me/RoyalKrrishna).",
+                    text="Something went Wrong. Contact my [Father](https://t.me/Himanshurathore0).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
